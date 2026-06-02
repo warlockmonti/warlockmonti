@@ -1,16 +1,55 @@
-## Hi there 👋
+# Nick Montimurro
+Full-stack developer building language learning apps and AI-powered tools · CT
 
-<!--
-**warlockmonti/warlockmonti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🎮 Apps & Games
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [JQuest](https://github.com/warlockmonti/JQuest)
+`TypeScript` `React` `Card Game`
+
+A turn-based card strategy RPG that teaches Japanese as you battle Yokai. Earn vocabulary, unlock cards, and conquer ancient Japan.
+
+---
+
+### [SteveIsLost](https://github.com/warlockmonti/SteveIsLost)
+`TypeScript` `Retro RPG`
+
+A retro arcade RPG where Steve must learn local vocabulary fast — annoy the locals and you'll never find your way home.
+
+---
+
+### [NeuroMap-AI](https://github.com/warlockmonti/NeuroMap-AI)
+`TypeScript` `AI Agent`
+
+An AI research agent that teaches through dynamic mind map generation — build branching knowledge trees as you explore any topic.
+
+---
+
+## 🤖 AI Workflow Integrations
+
+### [Hermes WebUI](https://github.com/warlockmonti/hermes)
+`Python` `Forked`
+
+Web-based interface for running the Hermes AI agent from any browser or phone.
+
+---
+
+### [LocallyHosted AI](https://github.com/warlockmonti/locallyhostedAI)
+`JavaScript` `Self-hosted`
+
+A self-hosted AI workspace — run powerful models locally without relying on external APIs or cloud services.
+
+---
+
+## 👨🏻‍🔬 Science Tutoring 
+
+### [Science-Tutoring](https://github.com/warlockmonti/Science-Tutoring)
+`Business` `Scheduling`
+
+Science tutoring session and educational services offered.
+
+---
+
+
+📫 [linkedin.com/in/nicholas-montimurro](https://linkedin.com/in/nicholas-montimurro)
