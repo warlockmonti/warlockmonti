@@ -12,17 +12,17 @@ A turn-based card strategy RPG that teaches Japanese as you battle Yokai. Earn v
 
 ---
 
-### [SteveIsLost](https://github.com/warlockmonti/SteveIsLost)
-`TypeScript` `Retro RPG`
-
-A retro arcade RPG where Steve must learn local vocabulary fast — annoy the locals and you'll never find your way home.
-
----
-
 ### [NeuroMap-AI](https://github.com/warlockmonti/NeuroMap-AI)
 `TypeScript` `AI Agent`
 
 An AI research agent that teaches through dynamic mind map generation — build branching knowledge trees as you explore any topic.
+
+---
+
+### [SteveIsLost](https://github.com/warlockmonti/SteveIsLost)
+`TypeScript` `Retro RPG`
+
+A retro arcade RPG where Steve must learn local vocabulary fast — annoy the locals and you'll never find your way home.
 
 ---
 
