@@ -12,7 +12,7 @@ A turn-based card strategy RPG that teaches Japanese as you battle Yokai. Earn v
 
 ---
 
-### [NeuroMap-AI](https://github.com/warlockmonti/NeuroMap-AI)
+### [NeuroMap-AI](https://neuro-map-ai.vercel.app/)
 `TypeScript` `AI Agent`
 
 An AI research agent that teaches through dynamic mind map generation — build branching knowledge trees as you explore any topic.
