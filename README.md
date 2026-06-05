@@ -5,7 +5,7 @@ Full-stack developer building language learning apps and AI-powered tools · CT
 
 ## 🎮 Apps & Games
 
-### [JQuest](https://github.com/warlockmonti/JQuest)
+### [JQuest]((https://jquest-red.vercel.app/))
 `TypeScript` `React` `Card Game`
 
 A turn-based card strategy RPG that teaches Japanese as you battle Yokai. Earn vocabulary, unlock cards, and conquer ancient Japan.
