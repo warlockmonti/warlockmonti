@@ -19,7 +19,7 @@ An AI research agent that teaches through dynamic mind map generation — build 
 
 ---
 
-### [SteveIsLost](https://github.com/warlockmonti/SteveIsLost)
+### [SteveIsLost]((https://steveislost.vercel.app/))
 `TypeScript` `Retro RPG`
 
 A retro arcade RPG where Steve must learn local vocabulary fast — annoy the locals and you'll never find your way home.
